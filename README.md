@@ -1,6 +1,15 @@
 ### Hi there 👋
 ![Tauheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauheedbuttt&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauheedbuttt&layout=pie)](https://github.com/tauheedbuttt/github-readme-stats)
+
+- 🔭 I’m currently working on custom and self projects
+- 🌱 I’m currently learning NextJS and Tailwind
+- 📫 Projects I worked on: ...
+[Exam App](https://exam-344f2.web.app)
+[Timetracker](https://mytimetracker.app)
+[Junbo AI](https://junboai.com)
+[Vital Admin Panel](http://Vitalkw.com)
+[Application Tracking System](https://github.com/tauheedbuttt/application-tracking-system)
+
 <!--
 **tauheedbuttt/tauheedbuttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
