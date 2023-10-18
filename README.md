@@ -4,11 +4,11 @@
 - 🔭 I’m currently working on custom and self projects
 - 🌱 I’m currently learning NextJS and Tailwind
 - 📫 Projects I worked on: ...
-[Exam App](https://exam-344f2.web.app)
-[Timetracker](https://mytimetracker.app)
-[Junbo AI](https://junboai.com)
-[Vital Admin Panel](http://Vitalkw.com)
-[Application Tracking System](https://github.com/tauheedbuttt/application-tracking-system)
+[Exam App](https://exam-344f2.web.app)<br>
+[Timetracker](https://mytimetracker.app)<br>
+[Junbo AI](https://junboai.com)<br>
+[Vital Admin Panel](http://Vitalkw.com)<br>
+[Application Tracking System](https://github.com/tauheedbuttt/application-tracking-system)<br>
 
 <!--
 **tauheedbuttt/tauheedbuttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
