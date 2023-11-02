@@ -1,5 +1,4 @@
-### Hi there 👋
-![Tauheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauheedbuttt&show_icons=true&theme=radical)
+
 
 - 🔭 I’m currently working on custom and self projects
 - 🌱 I’m currently learning NextJS and Tailwind
@@ -12,7 +11,8 @@
 
 <!--
 **tauheedbuttt/tauheedbuttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
+![Tauheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauheedbuttt&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
