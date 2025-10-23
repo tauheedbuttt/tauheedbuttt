@@ -1,6 +1,6 @@
 
 
-- 🔭 Doing masters from University of Turku
+- 🔭 Doing Masters in Software Engineering from University of Turku
 - 🌱 More than 3 years of experience in Full Stack Development with NextJs, ReactJS and NestJS
 - 📫 Projects I worked on: <br>
 - [AIO App](https://www.aioapp.com)<br>
