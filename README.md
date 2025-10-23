@@ -1,13 +1,12 @@
 
 
-- 🔭 I’m currently working on custom and self projects
-- 🌱 I’m currently learning NextJS and Tailwind
+- 🔭 Doing masters from University of Turku
+- 🌱 More than 3 years of experience in Full Stack Development with NextJs, ReactJS and NestJS
 - 📫 Projects I worked on: <br>
-- [Exam App](https://exam-344f2.web.app)<br>
-- [Timetracker](https://mytimetracker.app)<br>
-- [Junbo AI](https://junboai.com)<br>
-- [Vital Admin Panel](http://Vitalkw.com)<br>
-- [Application Tracking System](https://github.com/tauheedbuttt/application-tracking-system)<br>
+- [AIO App](https://www.aioapp.com)<br>
+- [TruDar](https://truedar.ae)<br>
+- [CompCheck](https://compcheck.io)<br>
+- [BugBounty](http://bugbounty-frontend-internal.vercel.app)<br>
 
 <!--
 **tauheedbuttt/tauheedbuttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
