@@ -1,25 +1,8 @@
-
-
-- 🔭 Doing Masters in Software Engineering from University of Turku
-- 🌱 More than 3 years of experience in Full Stack Development with NextJs, ReactJS and NestJS
+- 🌱 3+ years of experience in full-stack development with Next.js, React.js, and NestJS
+- 🤖 AI-assisted development, custom MCPs, integrations, and full-stack product delivery
 - 📫 Projects I worked on: <br>
-- [AIO App](https://www.aioapp.com)<br>
-- [TruDar](https://truedar.ae)<br>
-- [CompCheck](https://compcheck.io)<br>
-- [BugBounty](http://bugbounty-frontend-internal.vercel.app)<br>
-
-<!--
-**tauheedbuttt/tauheedbuttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-![Tauheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauheedbuttt&show_icons=true&theme=radical)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [AIO App](https://www.aioapp.com)<br>
+  - [TruDar](https://truedar.ae)<br>
+  - [BugBounty](http://bugbounty-frontend-internal.vercel.app)<br>
+  - [Student Deadline](https://death-is-a-deadline-mvp.vercel.app/)<br>
+  - [Instant Quote](https://gtc-frontend-dev.vercel.app/)
